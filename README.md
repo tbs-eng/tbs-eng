@@ -1,4 +1,4 @@
-Leonardo De Leon
+# Leonardo De Leon
 
 Full-stack web developer in San Diego. Java and Spring Boot, JavaScript and React, AWS.
 Five years at Infosys, where I led a team moving a legacy system to microservices on AWS.
